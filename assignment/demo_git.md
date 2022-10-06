@@ -8,22 +8,22 @@
 
  Display the status of the working directory
 
+![](images%20copy/Screenshot%20(7).png)
 
-![](images/Screenshot%20(7).png)
 
 #### COMMAND 02
 
 - git init 
 Initialize the new git repository
 
-![](images/Screenshot%20(8).png)
+![](images%20copy/Screenshot%20(8).png)
 
 #### COMMAND 03
 
 git branch 
 This command show the development environment of the repository
 
-![](images/Screenshot%20(9).png)
+![](images%20copy/Screenshot%20(9).png)
 
 #### COMMAND 04
 
@@ -33,19 +33,19 @@ This command show the development environment of the repository
 
 create a new branch and switch to that branch
 
-![](images/Screenshot%20(10).png)
+![](images%20copy/Screenshot%20(10).png)
 
 - git checkout main
 
 navigate from other branch to main branch
 
-![](images/Screenshot%20(11).png)
+![](images%20copy/Screenshot%20(11).png)
 #### COMMAND 05
 - git add .
 
  adding all the untracking file to stagging
 
-![](images/Screenshot%20(12).png)
+![](images%20copy/Screenshot%20(12).png)
 
 #### COMMAND 06
 
@@ -54,7 +54,7 @@ navigate from other branch to main branch
 commit the changes of the file 
 
 
-![](images/Screenshot%20(13).png)
+![](images%20copy/Screenshot%20(13).png)
 
 ###  COMMAND 07
 
@@ -62,7 +62,7 @@ commit the changes of the file
 
  pushing the modified staged file to git repository
 
-![](images/Screenshot%20(14).png)
+![](images%20copy/Screenshot%20(14).png)
 
 ### COMMAND 08
 
@@ -70,7 +70,7 @@ commit the changes of the file
 
 which is used to compare changes commited in git.
 
-![](images/Screenshot%20(15).png)
+![](images%20copy/Screenshot%20(15).png)
 
 ###  COMMAND 09
 
@@ -78,6 +78,6 @@ which is used to compare changes commited in git.
 
 git restored command helps to unstage the local changes.
 
-![](images/Screenshot%20(15).png)
+![](images%20copy/Screenshot%20(15).png)
 
 ### COMMAND 10
