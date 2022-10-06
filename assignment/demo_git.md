@@ -66,7 +66,7 @@ commit the changes of the file
 
 ### COMMAND 08
 
-- git dff
+- git diff
 
 which is used to compare changes commited in git.
 
@@ -81,3 +81,22 @@ git restored command helps to unstage the local changes.
 ![](images%20copy/Screenshot%20(15).png)
 
 ### COMMAND 10
+
+- git log
+
+it shows all the past commit done by users 
+
+![](images%20copy/Screenshot%20(17).png)
+
+
+###  COMMAND 11
+
+- TAGGING 
+It is an mechanism used to create a snapshot of a git repository. 
+
+### COMMAND 12
+
+- git switch
+switch it to the desired environment
+
+![](images%20copy/Screenshot%20(19).png)
